@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102265620/233517408-aa6d9b78-c4f2-4b1f-be8d-414195d9f5a3.png" width="1054" height="400"/>
+</div>
+ 
 <!--
 **RenatoAlexandrini/RenatoAlexandrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
