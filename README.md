@@ -34,7 +34,7 @@ Connect with me:
 <a href="https://www.linkedin.com/in/renato-alexandrini-740754225/">
  <img src="https://user-images.githubusercontent.com/102265620/233757150-e9a24e30-6089-48dd-b506-06db09c1cff5.png"/>
 </a>
-  <a href="https://www.renatoalexandrini.com.br">
+  <a href="https://renatoalexandrini.com.br/">
  <img src="https://user-images.githubusercontent.com/102265620/233757827-5c291648-16f1-468d-b905-9fc97bc9b8cc.png"/>
 </a>
 </p>
