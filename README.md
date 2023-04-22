@@ -22,7 +22,23 @@ Technology Stack
 </p>
 </h1>
 
-
+<h1 align="center">
+<img  src="https://user-images.githubusercontent.com/102265620/233757860-fdab3475-1e59-42e7-9891-ead1d60ccc2c.png" width="50" height="50" align="center"/> 
+Connect with me:
+<img  src="https://user-images.githubusercontent.com/102265620/233757869-5a33aeb8-ab56-4391-915b-8ac4f3035502.png" width="50" height="50" align="center"/> 
+  
+<p align="center">
+<a href="mailto: re.alexandrini@gmail.com">
+<img src="https://user-images.githubusercontent.com/102265620/233757103-ede88db7-b1d7-4f57-a7be-ea4bbe8dfd70.png"/> 
+</a>
+<a href="https://www.linkedin.com/in/renato-alexandrini-740754225/">
+ <img src="https://user-images.githubusercontent.com/102265620/233757150-e9a24e30-6089-48dd-b506-06db09c1cff5.png"/>
+</a>
+  <a href="https://www.renatoalexandrini.com.br">
+ <img src="https://user-images.githubusercontent.com/102265620/233757827-5c291648-16f1-468d-b905-9fc97bc9b8cc.png"/>
+</a>
+</p>
+</h2>
 
 <h1 align="center">
 <img  src="https://user-images.githubusercontent.com/102265620/233754237-afbd3ead-fc74-4e63-9124-b597e716e0ae.png" width="50" height="50" align="center"/> 
