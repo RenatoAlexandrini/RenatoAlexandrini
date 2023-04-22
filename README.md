@@ -24,7 +24,7 @@ Technology Stack
 
 <h1 align="center">
 <img  src="https://user-images.githubusercontent.com/102265620/233757860-fdab3475-1e59-42e7-9891-ead1d60ccc2c.png" width="50" height="50" align="center"/> 
-Connect with me:
+Connect with me
 <img  src="https://user-images.githubusercontent.com/102265620/233757869-5a33aeb8-ab56-4391-915b-8ac4f3035502.png" width="50" height="50" align="center"/> 
   
 <p align="center">
