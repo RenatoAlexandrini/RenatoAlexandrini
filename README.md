@@ -29,7 +29,7 @@ Connect with me
  
 <p align="center">
  
-[![Descrição da imagem](https://user-images.githubusercontent.com/102265620/233757150-e9a24e30-6089-48dd-b506-06db09c1cff5.png)](https://www.linkedin.com/in/renato-alexandrini-740754225/){:target="_blank"}
+[![Descrição da imagem](https://user-images.githubusercontent.com/102265620/233757150-e9a24e30-6089-48dd-b506-06db09c1cff5.png)](https://www.linkedin.com/in/renato-alexandrini-740754225/{target="_blank"})
 
  <a href="https://www.linkedin.com/in/renato-alexandrini-740754225" target="_blank"><img src="https://user-images.githubusercontent.com/102265620/233757150-e9a24e30-6089-48dd-b506-06db09c1cff5.png" alt="Imagem de exemplo"></a>
   
