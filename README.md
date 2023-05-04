@@ -29,9 +29,7 @@ Connect with me
  
 <p align="center">
  
- <a href="https://www.linkedin.com/in/renato-alexandrini-740754225/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/102265620/233757150-e9a24e30-6089-48dd-b506-06db09c1cff5.png" alt="Imagem do LinkedIn">
-</a>
+[![Texto alternativo da imagem](https://user-images.githubusercontent.com/102265620/233757150-e9a24e30-6089-48dd-b506-06db09c1cff5.png)](https://www.linkedin.com/in/renato-alexandrini-740754225/){:target="_blank" rel="noopener noreferrer"}
   
 <a href="mailto: re.alexandrini@gmail.com" target="_blank">
 <img src="https://user-images.githubusercontent.com/102265620/233757103-ede88db7-b1d7-4f57-a7be-ea4bbe8dfd70.png"/> 
