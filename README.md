@@ -28,18 +28,19 @@ Connect with me
 <img  src="https://user-images.githubusercontent.com/102265620/233757869-5a33aeb8-ab56-4391-915b-8ac4f3035502.png" width="50" height="50" align="center"/> 
  
 <p align="center">
- 
+
 <a href="mailto: re.alexandrini@gmail.com"  target="_blank" rel="noopener noreferrer">
-<img src="https://user-images.githubusercontent.com/102265620/233757103-ede88db7-b1d7-4f57-a7be-ea4bbe8dfd70.png"/> 
+<img src="https://user-images.githubusercontent.com/102265620/236313940-7dc92685-1721-4f94-a719-73477a56c88f.png"/> 
 </a>
 <a href="https://www.linkedin.com/in/renato-alexandrini-740754225/"  target="_blank" rel="noopener noreferrer">
- <img src="https://user-images.githubusercontent.com/102265620/233757150-e9a24e30-6089-48dd-b506-06db09c1cff5.png"/>
+ <img src="https://user-images.githubusercontent.com/102265620/236311885-0f3db2fc-5136-485e-9582-6c33b249e274.png"/>
 </a>
   <a href="https://renatoalexandrini.com.br/"  target="_blank" rel="noopener noreferrer">
- <img src="https://user-images.githubusercontent.com/102265620/233757827-5c291648-16f1-468d-b905-9fc97bc9b8cc.png"/>
+ <img src="https://user-images.githubusercontent.com/102265620/236313318-09d6e4d5-b05f-4305-a3da-48cbd46b8e07.png"/>
 </a>
 </p>
 </h2>
+
 
 <h1 align="center">
 <img  src="https://user-images.githubusercontent.com/102265620/233754237-afbd3ead-fc74-4e63-9124-b597e716e0ae.png" width="50" height="50" align="center"/> 
