@@ -35,11 +35,11 @@ Connect with me
 <a href="https://www.linkedin.com/in/renato-alexandrini-740754225/"  target="_blank" rel="noopener noreferrer">
  <img src="https://user-images.githubusercontent.com/102265620/236311885-0f3db2fc-5136-485e-9582-6c33b249e274.png"/>
 </a>
-
+<!--
   <a href="https://renatoalexandrini.com.br/"  target="_blank" rel="noopener noreferrer">
  <img src="https://user-images.githubusercontent.com/102265620/236313318-09d6e4d5-b05f-4305-a3da-48cbd46b8e07.png"/>
 </a>
-
+--!>
 </p>
 </h2>
 
